@@ -44,6 +44,5 @@ A Wikipedia Article: https://en.wikipedia.org/wiki/Natural_language_processing
   * Find the weighted frequency of each word by dividing its frequency by the frequency of the most occurring word.
 * **Find the Sentence Scores**
   * Plug the weighted frequencies in place of the corresponding words in the original sentences and find their sum.
-* Get the summary
 * **Sort the Sentences in Descending Order of the Sum**
   * The sentences with highest frequencies summarize the text.
